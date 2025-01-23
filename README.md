@@ -95,7 +95,7 @@ I'm currently deepening my knowledge in AI/ML technologies and enhancing my skil
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-- **Email:** 29gautamraju@gmail.com
+
 
 Thanks for stopping by! 😊 Let's build something amazing together!
 
