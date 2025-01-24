@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm a passionate and driven **Master of Science in
   - **Technology Intern**, Videntum Research & Development
 
 ## 🛠️ Projects
-### 🔹 [AI-powered Intelligent Email Responder](https://github.com/your-repo)
+### 🔹 [AI-powered Intelligent Email Responder](https://github.com/gautamrajur/EmailSender.AI)
 An AI-driven automation solution utilizing **GitHub Actions, OpenAI API, and Gmail API** to enhance email response efficiency.
 
-### 🔹 [iNoteBook](https://github.com/your-repo)
+### 🔹 [iNoteBook](https://github.com/gautamrajur/inotebook)
 A cloud-based secure note-taking application with a robust authentication system using **MERN stack**.
 
-### 🔹 [Image Processing Application](https://github.com/your-repo)
+### 🔹 [NeatMeet iOS App](https://github.com/gautamrajur/NeatMeet)
 Developed an image processing tool with advanced filtering and transformation features using **Python** and **OpenCV**.
 
 ## My Skill Set  
