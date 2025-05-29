@@ -20,6 +20,12 @@ A cloud-based secure note-taking application with a robust authentication system
 ### 🔹 [NeatMeet iOS App](https://github.com/gautamrajur/NeatMeet)
 Developed an image processing tool with advanced filtering and transformation features using **Python** and **OpenCV**.
 
+### 🔹 [AI Avatar System](https://github.com/gautamrajur/ai-avatar-system)
+An intelligent avatar generation and animation platform utilizing **PyTorch, Computer Vision, and Deep Learning** to create personalized digital avatars with real-time facial expression mapping.
+
+### 🔹 [GPU Performance Profiler](https://github.com/gautamrajur/gpu-profiler)  
+A comprehensive neural network profiling tool with memory optimization analysis using **CUDA, PyTorch, and Performance Monitoring** to benchmark CNN and Transformer architectures.
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
