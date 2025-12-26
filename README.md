@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate and driven **Master of Science in
 ### 🔹 [AI-powered Intelligent Email Responder](https://github.com/gautamrajur/EmailSender.AI)
 An AI-driven automation solution utilizing **GitHub Actions, OpenAI API, and Gmail API** to enhance email response efficiency.
 
-### 🔹 [iNoteBook](https://github.com/gautamrajur/inotebook)
-A cloud-based secure note-taking application with a robust authentication system using **MERN stack**.
+### 🔹 [AdaptEd AI](https://github.com/gautamrajur/AdaptEd-AI)
+An app to detect learning disorders like dyslexia in young kids and remediate the learning process.
 
 ### 🔹 [NeatMeet iOS App](https://github.com/gautamrajur/NeatMeet)
 Developed an image processing tool with advanced filtering and transformation features using **Python** and **OpenCV**.
