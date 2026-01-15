@@ -2,15 +2,15 @@
 
 Welcome to my GitHub profile! I'm a passionate and driven **Master of Science in Computer Science** student at **Northeastern University**, with a strong background in software development, automation, and cloud computing 🚀
 
-## 📚 About Me
+##  About Me
 - 🎓 **Education:**
   - **M.S. in Computer Science**, Northeastern University
   - **B.E. in Computer Science**, Visvesvaraya Technology University
-- 💼 **Professional Experience:**
+-  **Professional Experience:**
   - **Automation Development Engineer**, Apple Inc.
   - **Technology Intern**, Videntum Research & Development
 
-## 🛠️ Projects
+##  Projects
 ### 🔹 [AI-powered Intelligent Email Responder](https://github.com/gautamrajur/EmailSender.AI)
 An AI-driven automation solution utilizing **GitHub Actions, OpenAI API, and Gmail API** to enhance email response efficiency.
 
