@@ -23,7 +23,7 @@ Developed an image processing tool with advanced filtering and transformation fe
 ### 🔹 [AI Avatar System](https://github.com/gautamrajur/ai-avatar-system)
 An intelligent avatar generation and animation platform utilizing **PyTorch, Computer Vision, and Deep Learning** to create personalized digital avatars with real-time facial expression mapping.
 
-### 🔹 [GPU Performance Profiler](https://github.com/gautamrajur/gpu-profiler)  
+### 🔹 [GPU Performance Profiler](https://github.com/gautamrajur/gpu_profiler)  
 A comprehensive neural network profiling tool with memory optimization analysis using **CUDA, PyTorch, and Performance Monitoring** to benchmark CNN and Transformer architectures.
 
 ## My Skill Set  
