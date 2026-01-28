@@ -11,17 +11,17 @@ Welcome to my GitHub profile! I'm a passionate and driven **Master of Science in
   - **Technology Intern**, Videntum Research & Development
 
 ##  Projects
-### 🔹 [AI-powered Intelligent Email Responder](https://github.com/gautamrajur/EmailSender.AI)
-An AI-driven automation solution utilizing **GitHub Actions, OpenAI API, and Gmail API** to enhance email response efficiency.
+### 🔹 [k8s-quota-enforcer](https://github.com/gautamrajur/k8s-quota-enforcer)
+Kubernetes namespace provisioning with automatic resource quotas and policy enforcement
+
+### 🔹 [Infra-Archaeology-MCP](https://github.com/gautamrajur/Infra-Archaeology-MCP)
+An MCP tool that can run forensics on Cloud costs and help cut down massive wastages of cloud resources
+
+### 🔹 [Chaos-operator](https://github.com/gautamrajur/chaos-operator)
+A Kubernetes operator for chaos engineering that tests service resilience through controlled failure injection.
 
 ### 🔹 [AdaptEd AI (React + EXPO)](https://github.com/gautamrajur/AdapteEd-AI)
 An app to detect learning disorders like dyslexia in young kids and remediate the learning process.
-
-### 🔹 [NeatMeet iOS App](https://github.com/gautamrajur/NeatMeet)
-Developed an image processing tool with advanced filtering and transformation features using **Python** and **OpenCV**.
-
-### 🔹 [AI Avatar System](https://github.com/gautamrajur/ai-avatar-system)
-An intelligent avatar generation and animation platform utilizing **PyTorch, Computer Vision, and Deep Learning** to create personalized digital avatars with real-time facial expression mapping.
 
 ### 🔹 [GPU Performance Profiler](https://github.com/gautamrajur/gpu_profiler)  
 A comprehensive neural network profiling tool with memory optimization analysis using **CUDA, PyTorch, and Performance Monitoring** to benchmark CNN and Transformer architectures.
